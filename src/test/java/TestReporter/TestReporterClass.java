@@ -1,6 +1,7 @@
 package TestReporter;
 
 // Test msg for testing purpose
+// Test msg 2
 
 import com.aventstack.extentreports.ExtentReports;
 
